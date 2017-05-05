@@ -11,7 +11,7 @@ tags:
 
 其实这个命令来自一款应用：thefuck，是用来修复在命令行中上一条错误的命令。这款应用下载了几千次，在 GitHub 上有很多 star，并有几十个优秀的贡献者。
 
-### ubuntu下的安装：
+## ubuntu下的安装：
     
     sudo apt-get install thefuck
 
@@ -21,5 +21,23 @@ tags:
 
 就可以使用了。
 
-#### 小小的尝试一下：
+## 小小的尝试一下：
+
+比如我想输入
+
+    sudo apt-get install vim 
+
+我故意输错：
+
+    aptget install vim
+
+试试:
+
+![](https://github.com/cwp374240920/blogs/blob/master/pics/fuck%5D.png?raw=true)
+
+经过一遍遍fuck调教，最终终于输入正确了自己想要的命令:sudo apt-get install vim
+
+也可以想象到，当时的开发者肯定每次终端中输入错误命令的时候，内心大喊一声fuck，然后动手写了这么个应用。真是既有用又有趣。
+
+自己也尝试一下吧～
 
