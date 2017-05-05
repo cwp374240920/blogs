@@ -1,10 +1,9 @@
 ---
-title: 20170427-My-first-blog
+title: hexo配合github pages搭建个人博客
 date: 2017-04-27 15:44:37
-tags: 
-    -dev
-    -origin
+tags: [dev,origin]
 ---
+# hexo配合github pages搭建个人博客
 这是我的第一篇博客，就用来记录一下自己怎么搭的hexo环境吧，虽然网上有教程，但自己再理一遍总是有好处的。
 
 ### Step 1:nodeJS的安装
